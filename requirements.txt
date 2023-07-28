@@ -1,2 +1,2 @@
-numpy
 pymavlink
+import numpy as np
